@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: My Blog _ WIP
 ---
+
+Hello World
 
